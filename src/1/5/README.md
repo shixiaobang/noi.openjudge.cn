@@ -6,21 +6,21 @@
 
 ⭕ [2.财务管理](./average_balance.cpp)
 
-🚫 3.均值
+⭕ [3.均值](./average_value.cpp)
 
-🚫 4.求整数的和与均值
+⭕ [4.求整数的和与均值](./sum_and_average.cpp)
 
-🚫 5.最高的分数
+⭕ [5.最高的分数](./highest_score.cpp)
 
-🚫 6.整数序列的元素最大跨度值
+⭕ [6.整数序列的元素最大跨度值](./maximum_interval.cpp)
 
-🚫 7.奥运奖牌计数
+⭕ [7.奥运奖牌计数](./medal_count.cpp)
 
-🚫 8.多边形内角和
+⭕ [8.多边形内角和](./polygon.cpp)
 
-🚫 9.奇数求和
+⭕ [9.奇数求和](./odd_sum.cpp)
 
-🚫 10.满足条件的数累加
+⭕ [10.满足条件的数累加](./conditional_sum.cpp)
 
 🚫 11.整数的个数
 
